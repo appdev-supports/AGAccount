@@ -8,15 +8,15 @@ In addition to the above necessary functions, this project also uses iCloud data
 
 
 
-![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/appdev-supports-patch-1/0.jpg)
+![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/master/0.jpg)
 
-![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/appdev-supports-patch-1/1.jpg)
+![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/master/1.jpg)
 
-![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/appdev-supports-patch-1/2.jpg)
+![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/master/2.jpg)
 
-![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/appdev-supports-patch-1/3.jpg)
+![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/master/3.jpg)
 
-![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/appdev-supports-patch-1/4.jpg)
+![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/master/4.jpg)
 
 
 
