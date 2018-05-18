@@ -1,16 +1,12 @@
-# Account-Gadge-Assistant
+# AG-(A Good)Account
 
-The overall function of APP is to save personal information, and then assist in various security verification. The content stored locally is encrypted encrypted cipher. For the sensitive information of the account password, it can be used to save the content of the password to replace the password itself or the part of the password.
-Save account information
-Security verification
-Information preservation, the main use of the database SQlite, the emphasis and difficulty is security validation part of the content, the project provides gesture code, digital password and TouchID to unlock and other operations. The use of TouchID, and custom digital password interface, gesture interface, and result validation logic.
-In addition to the above necessary functions, this project also uses iCloud data synchronous backup, and 3DTouch adds new updates quickly.
+A kind of account, password, and other information used to protect the daily use. After all the information is encrypted, it is stored in the local database and can be synchronized to the iCloud, which can be shared among the devices.
+APP has simple functions, less interface elements and simple logic.
+This is a single machine APP, the use of the network, only synchronous data to iCloud, sharing between devices, the rest will not use the network, can be used in the state of broken network.
 
 
 
-![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/master/0.jpg)
 
-![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/master/1.jpg)
 
 ![Alt text](https://github.com/appdev-supports/Account-Gadge-Assistant/blob/master/2.jpg)
 
